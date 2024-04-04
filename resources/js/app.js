@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * First we will load all of this project's JavaScript dependencies which
  * includes Vue and other libraries. It is a great starting point when
@@ -37,3 +38,6 @@ app.component('example-component', ExampleComponent);
  */
 
 app.mount('#app');
+=======
+import './bootstrap';
+>>>>>>> e88a8b3a452f3fe8cd32ab07f67d43e549b7f80f
